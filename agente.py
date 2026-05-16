@@ -15,10 +15,12 @@ Modelos alternativos (cambiar MODEL en config):
   ollama pull mistral:7b       (~4 GB)
 """
 
+import json
 import math
+from datetime import datetime
 from typing import Annotated, TypedDict
 
-from langchain_core.messages import AIMessage, HumanMessage, ToolMessage
+from langchain_core.messages import AIMessage, HumanMessage, ToolMessage, SystemMessage
 from langchain_core.tools import tool
 from langchain_ollama import ChatOllama
 from langgraph.graph import END, START, StateGraph
@@ -28,6 +30,17 @@ from langgraph.graph.message import add_messages
 # CONFIG
 # ---------------------------------------------
 MODEL = "qwen2.5:3b"
+
+# ---------------------------------------------
+# PERSONALIDAD — mensaje de sistema que define el comportamiento del agente
+# ---------------------------------------------
+SYSTEM_PROMPT = """Eres Matix, un asistente inteligente, directo y con buen humor.
+Tu personalidad:
+- Eres preciso y vas al grano, sin rodeos innecesarios.
+- Usas un tono amigable y cercano, como un colega que sabe mucho.
+- Cuando algo te divierte, lo dices. Cuando algo no tiene sentido, lo aclaras con respeto.
+- Nunca inventas resultados matemáticos — para eso tienes herramientas.
+- Siempre explicas brevemente qué hiciste y por qué, en una sola oración."""
 
 
 # ---------------------------------------------
@@ -45,6 +58,9 @@ class State(TypedDict):
 def calculadora(expresion: str) -> str:
     """
     Evalúa una expresión matemática y retorna el resultado.
+    Usa esta herramienta cuando el usuario pida calcular, operar o resolver
+    cualquier expresión numérica. Nunca calcules mentalmente — siempre delega
+    aquí para garantizar precisión.
     Ejemplos: '2 + 2', '10 * 5', 'sqrt(16)', '2 ** 8'
     """
     try:
@@ -71,7 +87,8 @@ llm_con_tools = llm.bind_tools(TOOLS)
 # ---------------------------------------------
 def nodo_agente(state: State) -> dict:
     """Llama al LLM y decide si usar una herramienta o responder directo."""
-    respuesta = llm_con_tools.invoke(state["messages"])
+    mensajes_con_sistema = [SystemMessage(content=SYSTEM_PROMPT)] + state["messages"]
+    respuesta = llm_con_tools.invoke(mensajes_con_sistema)
     return {"messages": [respuesta]}
 
 
@@ -184,6 +201,16 @@ def chat_interactivo(app):
             print("[Sin tools — respuesta directa del modelo]")
 
         print("-" * 55)
+
+    if mensajes:
+        nombre_archivo = f"sesion_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        estado_serializado = [
+            {"tipo": type(m).__name__, "contenido": m.content}
+            for m in mensajes
+        ]
+        with open(nombre_archivo, "w", encoding="utf-8") as f:
+            json.dump(estado_serializado, f, ensure_ascii=False, indent=2)
+        print(f"Estado de sesión guardado en: {nombre_archivo}")
 
 
 # ---------------------------------------------
