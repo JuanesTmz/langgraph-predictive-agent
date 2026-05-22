@@ -1,0 +1,106 @@
+MANUAL DE SOPORTE TÉCNICO - DEPARTAMENTO DE TECNOLOGÍA DE LA INFORMACIÓN (IT)
+Versión 3.2 | Actualizado: Enero 2026
+
+================================================================================
+1. POLÍTICA DE CONTRASEÑAS
+================================================================================
+Todos los empleados deben cumplir con la política de contraseñas corporativa:
+
+- Las contraseñas deben tener mínimo 12 caracteres.
+- Deben contener al menos una letra mayúscula, una minúscula, un número y un símbolo especial.
+- Las contraseñas expiran cada 90 días y el sistema notificará 15 días antes del vencimiento.
+- No se permite reutilizar las últimas 10 contraseñas.
+- Después de 5 intentos fallidos consecutivos, la cuenta queda bloqueada automáticamente.
+- Para desbloquear una cuenta bloqueada, el empleado debe contactar al helpdesk al correo soporte.it@empresa.com o llamar al ext. 1000.
+- Está prohibido compartir contraseñas con compañeros, incluso con superiores jerárquicos.
+- Se recomienda el uso del gestor de contraseñas corporativo LastPass Enterprise, disponible para todos los empleados.
+
+================================================================================
+2. ACCESO VPN
+================================================================================
+La VPN corporativa permite acceder de forma segura a los recursos internos desde fuera de la oficina.
+
+Instalación y configuración:
+- Descargar el cliente GlobalProtect desde el portal interno: intranet.empresa.com/vpn
+- Usar las credenciales del dominio corporativo (usuario@empresa.com) para autenticarse.
+- Al conectarse por primera vez se enviará un código de verificación al correo corporativo.
+- La VPN está disponible para equipos Windows, macOS, iOS y Android.
+
+Uso de la VPN:
+- La conexión VPN es obligatoria al acceder a sistemas internos desde redes externas.
+- La VPN tiene un límite de inactividad de 60 minutos; después de ese tiempo la sesión se cierra automáticamente.
+- No está permitido usar la VPN para actividades no relacionadas con el trabajo.
+- En caso de problemas de conexión, verificar que el antivirus corporativo Symantec Endpoint no esté bloqueando la conexión.
+
+Resolución de problemas comunes de VPN:
+- Error "Cannot connect to server": verificar la conexión a internet y reiniciar el cliente GlobalProtect.
+- Error de autenticación: confirmar que las credenciales sean correctas y que la contraseña no esté vencida.
+- Velocidad lenta: desconectarse y reconectarse seleccionando el servidor más cercano (Colombia - Bogotá).
+
+================================================================================
+3. SOLICITUD DE SOFTWARE Y HARDWARE
+================================================================================
+Todo software instalado en equipos corporativos debe contar con licencia aprobada por IT.
+
+Proceso de solicitud de software:
+1. Ingresar al Portal de Solicitudes: intranet.empresa.com/solicitudes
+2. Seleccionar la categoría "Software Empresarial".
+3. Diligenciar el formulario indicando el nombre del software, versión, y justificación de uso.
+4. El jefe inmediato debe aprobar la solicitud dentro de 3 días hábiles.
+5. IT evaluará la compatibilidad y seguridad; el proceso toma entre 5 y 10 días hábiles.
+6. Se notificará por correo cuando el software esté disponible para instalación.
+
+Proceso de solicitud de hardware:
+- Las solicitudes de hardware (computadores, monitores, teclados, ratones, docking stations) se gestionan a través del mismo portal.
+- Los computadores portátiles son reemplazados cada 4 años según el ciclo de renovación.
+- Para daños o fallas, abrir un tiquete de soporte antes de solicitar reemplazo.
+- El hardware aprobado es entregado dentro de los 15 días hábiles siguientes a la aprobación.
+
+================================================================================
+4. CORREO ELECTRÓNICO CORPORATIVO
+================================================================================
+La empresa utiliza Microsoft 365 para el correo electrónico corporativo.
+
+Configuración del correo:
+- El correo corporativo tiene el formato nombre.apellido@empresa.com
+- Capacidad del buzón: 50 GB por usuario.
+- Se puede acceder desde el navegador en outlook.office.com o mediante la aplicación Outlook.
+- Para configurar en dispositivos móviles, usar la aplicación Microsoft Outlook disponible en App Store y Google Play.
+
+Normas de uso del correo:
+- El correo corporativo es exclusivo para actividades laborales.
+- Está prohibido enviar información confidencial de clientes o de la empresa a correos externos sin cifrado.
+- Los archivos adjuntos no pueden superar los 25 MB; para archivos más grandes usar SharePoint o OneDrive corporativo.
+- Los correos con enlaces o adjuntos sospechosos deben reportarse inmediatamente a seguridad.it@empresa.com sin abrirlos.
+
+Grupos de distribución:
+- todos@empresa.com: todos los empleados de la empresa.
+- it@empresa.com: equipo de tecnología.
+- Los grupos adicionales se solicitan mediante tiquete al helpdesk.
+
+================================================================================
+5. REPORTE DE INCIDENTES TÉCNICOS
+================================================================================
+Para reportar cualquier problema técnico:
+
+- Correo: soporte.it@empresa.com
+- Teléfono: extensión 1000 (disponible lunes a viernes, 7:00 a.m. - 6:00 p.m.)
+- Portal de tiquetes: intranet.empresa.com/helpdesk
+
+Niveles de prioridad:
+- Crítico (P1): sistemas caídos que afectan operaciones. Tiempo de respuesta: 1 hora.
+- Alto (P2): falla parcial de sistemas o múltiples usuarios afectados. Respuesta: 4 horas.
+- Medio (P3): falla individual sin impacto en producción. Respuesta: 1 día hábil.
+- Bajo (P4): solicitudes de mejora o consultas. Respuesta: 3 días hábiles.
+
+Al abrir un tiquete incluir: descripción del problema, mensajes de error exactos, sistema operativo y versión, y capturas de pantalla si aplica.
+
+================================================================================
+6. POLÍTICA DE USO DE EQUIPOS CORPORATIVOS
+================================================================================
+- Los equipos corporativos son propiedad de la empresa y deben usarse exclusivamente para fines laborales.
+- Está prohibido instalar software no autorizado, incluyendo juegos, aplicaciones de entretenimiento o software de terceros sin licencia.
+- Al final del día laboral se recomienda apagar o hibernar el equipo para aplicar actualizaciones automáticas de seguridad.
+- El equipo debe estar cifrado con BitLocker (Windows) o FileVault (macOS). IT gestiona estas configuraciones.
+- En caso de pérdida o robo del equipo, reportar de inmediato a IT y a RRHH para proceder con el borrado remoto.
+- Los equipos no deben conectarse a redes Wi-Fi públicas sin activar la VPN corporativa.

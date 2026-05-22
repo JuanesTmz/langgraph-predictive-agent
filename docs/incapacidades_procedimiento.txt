@@ -1,0 +1,120 @@
+PROCEDIMIENTO DE INCAPACIDADES Y LICENCIAS MÉDICAS
+Departamento de Gestión Humana | Versión 3.5 | Actualizado: Enero 2026
+
+================================================================================
+1. TIPOS DE INCAPACIDAD
+================================================================================
+La empresa reconoce los siguientes tipos de incapacidad o licencia de origen médico:
+
+Incapacidad de origen común (enfermedad general):
+- Cubre enfermedades no relacionadas con el trabajo: gripa, cirugías electivas, enfermedades crónicas, etc.
+- La EPS (Entidad Promotora de Salud) expide el certificado de incapacidad.
+- Los primeros 3 días de incapacidad son pagados por la empresa al 66.67% del salario.
+- Del día 4 en adelante el pago lo realiza la EPS (también al 66.67% del ingreso base de cotización).
+
+Incapacidad de origen laboral (accidente o enfermedad laboral):
+- Cubre accidentes ocurridos durante la jornada laboral o en el trayecto trabajo-hogar-trabajo.
+- También incluye enfermedades profesionales reconocidas por la ARL (Administradora de Riesgos Laborales).
+- El pago es del 100% del salario base de cotización y lo asume la ARL desde el primer día.
+- Reportar todo accidente de trabajo el mismo día al correo arl@empresa.com y a RRHH.
+
+Licencia de maternidad:
+- Duración: 18 semanas (126 días calendario) a partir del parto.
+- Pago: el 100% del salario, a cargo de la EPS (la empresa realiza el pago y solicita el reembolso a la EPS).
+- En caso de parto prematuro, la licencia se extiende por el tiempo equivalente a la diferencia entre la semana 36 y la de nacimiento.
+- La licencia puede iniciarse hasta 2 semanas antes de la fecha probable de parto.
+
+Licencia de paternidad:
+- Duración: 2 semanas (14 días hábiles) a partir del nacimiento del hijo.
+- Pago: el 100% del salario, a cargo de la EPS.
+- Debe solicitarse con al menos 30 días de anticipación a la fecha probable de parto, presentando el certificado médico de embarazo.
+- En caso de adopción, el período de licencia aplica a partir de la entrega oficial del menor.
+
+Licencia de luto:
+- En caso de fallecimiento del cónyuge, compañero permanente o un familiar hasta segundo grado de consanguinidad (padres, hijos, hermanos, abuelos), el empleado tiene derecho a 5 días hábiles remunerados.
+- Este tiempo no descuenta del saldo de vacaciones ni de la incapacidad.
+
+================================================================================
+2. PROCESO DE REPORTE DE INCAPACIDAD
+================================================================================
+Es obligatorio notificar la incapacidad el mismo día en que se genera, siguiendo estos pasos:
+
+Paso 1 - Notificación inmediata:
+- Avisar al jefe inmediato antes de las 8:00 a.m. o al inicio de la jornada laboral por WhatsApp o llamada telefónica.
+- Enviar correo a incapacidades@empresa.com indicando: nombre, cédula, área, fecha de inicio y duración estimada.
+
+Paso 2 - Entrega de documentos:
+- El certificado de incapacidad original expedido por la EPS o el médico debe entregarse a RRHH máximo al día siguiente de recibido.
+- Si la incapacidad es por accidente de trabajo, adicionalmente completar el formulario de reporte de accidente disponible en la intranet.
+- En incapacidades de más de 3 días, enviar el documento en formato PDF a incapacidades@empresa.com si no puede asistir físicamente.
+
+Paso 3 - Seguimiento:
+- Si la incapacidad se extiende, se debe enviar el nuevo certificado médico antes del vencimiento del anterior.
+- RRHH contactará al empleado si la incapacidad supera los 15 días para coordinar el proceso de pago con la EPS.
+
+================================================================================
+3. DOCUMENTACIÓN REQUERIDA
+================================================================================
+Los documentos varían según el tipo de incapacidad:
+
+Para incapacidad de origen común:
+- Certificado de incapacidad original expedido por el médico tratante o la EPS.
+- El certificado debe indicar: nombre del paciente, número de cédula, diagnóstico (CIE-10), fecha de inicio, número de días, y firma y sello del médico.
+- En incapacidades superiores a 30 días, la EPS puede exigir evaluación por la Junta Médica de Calificación.
+
+Para accidente de trabajo:
+- Formulario de Reporte de Accidente de Trabajo (FURAT), diligenciado y firmado por el empleado y el jefe.
+- Certificado de atención de urgencias o consulta médica.
+- Declaración de los hechos del accidente (disponible en intranet.empresa.com/arl).
+- Declaración de testigos si los hay.
+
+Para licencia de maternidad o paternidad:
+- Certificado médico de embarazo con fecha probable de parto (para licencia prenatal).
+- Registro civil de nacimiento del bebé (entregar dentro de los 30 días siguientes al parto).
+- Para adopción: resolución o sentencia judicial de adopción.
+
+================================================================================
+4. PAGO DURANTE INCAPACIDAD
+================================================================================
+El pago durante la incapacidad depende del origen y la duración:
+
+Incapacidad de origen común:
+- Días 1, 2 y 3: la empresa paga el 66.67% del salario base.
+- Días 4 a 90: la EPS paga el 66.67% del Ingreso Base de Cotización (IBC).
+- Días 91 a 180: la EPS continúa pagando el 50% del IBC (durante prórroga de incapacidad).
+- Más de 180 días: el caso pasa a calificación de invalidez por parte de la EPS o la ARL.
+
+Nota importante: si el empleado no tiene semanas de cotización suficientes en la EPS (mínimo 4 semanas), la empresa puede asumir el pago sin derecho a reembolso. Se recomienda que todos los empleados estén al día con sus cotizaciones.
+
+Incapacidad de origen laboral:
+- Desde el primer día, la ARL paga el 100% del salario base.
+- La empresa realiza el pago del salario normalmente y la ARL reembolsa el valor dentro de los 30 días siguientes.
+
+Licencias remuneradas (maternidad, paternidad):
+- La empresa paga el salario completo y gestiona el reembolso con la EPS.
+- El reembolso suele tardar entre 60 y 90 días hábiles.
+
+================================================================================
+5. REINCORPORACIÓN AL TRABAJO
+================================================================================
+Al finalizar la incapacidad, el empleado debe cumplir el siguiente proceso de reincorporación:
+
+Reincorporación estándar (incapacidades de menos de 30 días):
+- El primer día hábil después del vencimiento de la incapacidad, el empleado debe presentarse a trabajar normalmente.
+- Llevar el certificado médico de alta o el que indique que puede volver al trabajo.
+- Informar al jefe inmediato el día anterior a la reincorporación.
+
+Reincorporación post-incapacidad prolongada (más de 30 días):
+- Antes de regresar, el empleado debe obtener el certificado médico de alta funcional de la EPS.
+- RRHH coordinará una reunión de reincorporación para revisar el estado de salud y ajustar las actividades si es necesario (reintegro laboral).
+- En casos de recomendaciones médicas (restricción de esfuerzo físico, trabajo en alturas, etc.), la empresa adaptará el puesto de trabajo según sea posible.
+- Para incapacidades de origen laboral (ARL), el médico laboral de la ARL debe expedir el certificado de alta y las posibles restricciones de trabajo.
+
+Reincorporación tras calificación de invalidez:
+- Si el empleado fue calificado con una pérdida de capacidad laboral entre el 5% y el 49%, regresa al trabajo con las restricciones establecidas por la ARL o la EPS.
+- Si la calificación supera el 50%, se activa el proceso de pensión de invalidez, que gestiona el fondo de pensiones del empleado con apoyo de RRHH.
+
+Para cualquier duda sobre el proceso de incapacidades contactar a RRHH:
+- Correo: incapacidades@empresa.com
+- Teléfono: extensión 2001
+- Horario de atención: lunes a viernes de 8:00 a.m. a 5:00 p.m.

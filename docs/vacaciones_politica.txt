@@ -1,0 +1,99 @@
+POLÍTICA DE VACACIONES Y DÍAS DE DESCANSO
+Departamento de Gestión Humana | Versión 4.0 | Actualizado: Enero 2026
+
+================================================================================
+1. DÍAS DE VACACIONES POR CONTRATO
+================================================================================
+Todo empleado vinculado mediante contrato a término indefinido o fijo mayor a un año tiene derecho a vacaciones remuneradas.
+
+Días disponibles según antigüedad:
+- De 0 a 1 año de antigüedad: se generan 15 días hábiles de vacaciones por año trabajado (proporcional al tiempo laborado).
+- De 1 a 3 años: 15 días hábiles por año.
+- De 3 a 5 años: 17 días hábiles por año (2 días adicionales como beneficio extralegal).
+- Más de 5 años: 20 días hábiles por año (5 días adicionales como beneficio extralegal).
+
+Los días legales mínimos son 15 días hábiles por año según el Código Sustantivo del Trabajo colombiano. Los días adicionales son un beneficio extralegal de la empresa.
+
+Los días de vacaciones se calculan en días hábiles y no incluyen sábados, domingos ni festivos.
+
+================================================================================
+2. CÓMO SOLICITAR VACACIONES
+================================================================================
+El proceso de solicitud de vacaciones es completamente digital.
+
+Pasos para solicitar vacaciones:
+1. Ingresar al módulo de autoservicio en intranet.empresa.com/vacaciones.
+2. Seleccionar las fechas de inicio y fin de las vacaciones deseadas.
+3. El sistema mostrará automáticamente cuántos días hábiles corresponden y el saldo disponible.
+4. Enviar la solicitud al jefe inmediato para aprobación.
+5. El jefe tiene un plazo de 5 días hábiles para aprobar o rechazar la solicitud.
+6. El empleado recibirá notificación por correo electrónico con la decisión.
+
+Tiempos de anticipación para la solicitud:
+- Vacaciones de hasta 5 días hábiles: mínimo 15 días calendario de anticipación.
+- Vacaciones de 6 a 10 días hábiles: mínimo 30 días calendario de anticipación.
+- Vacaciones de más de 10 días hábiles: mínimo 45 días calendario de anticipación.
+
+Si la solicitud es rechazada, el jefe debe indicar el motivo y proponer fechas alternativas dentro de los 30 días siguientes.
+
+================================================================================
+3. POLÍTICA DE ACUMULACIÓN Y VENCIMIENTO
+================================================================================
+Los días de vacaciones pueden acumularse bajo las siguientes condiciones:
+
+- Se permite acumular hasta 30 días hábiles de vacaciones sin perderlos.
+- Los días que superen los 30 hábiles acumulados serán compensados económicamente en la siguiente nómina.
+- Las vacaciones deben tomarse dentro de los 12 meses siguientes a su generación para evitar su acumulación excesiva.
+- Por mutuo acuerdo entre el empleado y la empresa, las vacaciones pueden fraccionarse en períodos de mínimo 6 días hábiles continuos.
+- Para los empleados con más de 2 años de acumulación, el jefe inmediato y RRHH coordinarán un plan de disfrute obligatorio.
+
+================================================================================
+4. PERÍODOS DE BLOQUEO Y RESTRICCIONES
+================================================================================
+Existen períodos en los que las solicitudes de vacaciones pueden ser restringidas:
+
+Períodos de alto tráfico operativo (sujetos a confirmación anual por cada área):
+- Última semana de marzo y primera de abril (cierre contable Q1).
+- Del 1 al 15 de julio (cierre semestral).
+- Del 15 de noviembre al 5 de enero (temporada alta y cierre de año fiscal).
+
+Reglas de restricción:
+- Durante los períodos de bloqueo, el jefe inmediato puede negar la solicitud de vacaciones.
+- No más del 30% del equipo puede estar de vacaciones simultáneamente.
+- Los empleados de áreas críticas (Tecnología, Finanzas, Atención al Cliente) requieren aprobación adicional del director del área.
+
+Excepciones:
+- Las situaciones de fuerza mayor serán analizadas caso a caso por RRHH y el jefe inmediato.
+- El empleado puede contactar a RRHH en rrhh@empresa.com para solicitar excepciones debidamente justificadas.
+
+================================================================================
+5. COMPENSACIÓN ECONÓMICA DE VACACIONES
+================================================================================
+En casos excepcionales, las vacaciones no tomadas pueden compensarse económicamente.
+
+Liquidación de vacaciones:
+- Al terminar el contrato, los días de vacaciones pendientes se liquidan con base en el último salario.
+- La fórmula es: (salario mensual / 30) x días de vacaciones pendientes + la prima extralegal del 50%.
+- El pago se realiza en la liquidación final junto con las demás prestaciones sociales.
+
+Compensación en actividad:
+- La compensación de vacaciones en dinero durante la vigencia del contrato solo aplica para los días que superen el mínimo legal (más de 15 días hábiles anuales).
+- Esta compensación se solicita a través del módulo de autoservicio y requiere aprobación del jefe y de RRHH.
+- Se paga en la nómina del mes siguiente a la aprobación.
+
+================================================================================
+6. PERMISOS REMUNERADOS Y NO REMUNERADOS
+================================================================================
+Permisos remunerados (no descuentan del saldo de vacaciones):
+- Matrimonio del empleado: 5 días hábiles.
+- Fallecimiento de familiar en primer grado (cónyuge, hijos, padres): 5 días hábiles.
+- Fallecimiento de familiar en segundo grado (hermanos, abuelos, suegros): 3 días hábiles.
+- Nacimiento o adopción de hijo: 2 semanas para el padre (adicional a la licencia de paternidad legal).
+- Citaciones judiciales o electorales: el tiempo necesario con soporte.
+
+Permisos no remunerados:
+- Se pueden solicitar hasta 15 días hábiles al año de permiso no remunerado, con aprobación del jefe y RRHH.
+- La solicitud debe hacerse con mínimo 30 días de anticipación, excepto en emergencias.
+- Durante el permiso no remunerado, las prestaciones sociales continúan generándose normalmente.
+
+Todos los permisos se tramitan a través de intranet.empresa.com/permisos o escribiendo a rrhh@empresa.com.

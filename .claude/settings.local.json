@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(cd \"c:\\\\Python\\\\langgraph\\\\langgraph-predictive-agent\"; \\(Get-Command python\\).Source; python --version)"
-    ]
-  }
-}
