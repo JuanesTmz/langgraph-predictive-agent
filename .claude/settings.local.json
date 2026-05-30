@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Invoke-RestMethod -Uri \"http://localhost:11434/api/tags\" -Method GET -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
